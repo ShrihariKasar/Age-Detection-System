@@ -101,11 +101,10 @@ The **Age Detection Web App** provides a simple and user-friendly interface for 
 ## 📸 **UI Preview**  
 
 ```
-+-------------------------------------------------+
-|              🧑‍⚕️ Age Detection App              |
-+-------------------------------------------------+
-|![Homepage](https://github.com/ShrihariKasar/Age-Detection-System/blob/main/age_d.png) |
-+-------------------------------------------------+
+
+### 🧑‍⚕️ Age Detection App
+![Home Page](https://github.com/ShrihariKasar/Age-Detection-System/blob/main/age_d.png)
+
 ```
 
 ---
