@@ -6,7 +6,7 @@ This project is a **deep learning-based age detection system** built using **Ten
 - **25–40**
 - **41–60**
 
-🚀 **Live Demo:** [Add your deployed link here]
+🚀 **Live Demo On Linkedin:** [https://www.linkedin.com/posts/shrihari-kasar-94b63525b_ai-machinelearning-deeplearning-activity-7296490945733083136-hl2T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_80gsBostlEkM0_BVA-Oo7hiAWBcss-FQ]
 
 ---
 
